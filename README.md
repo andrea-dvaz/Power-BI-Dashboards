@@ -1,6 +1,6 @@
 Overview:
 This repository hosts a Power BI dashboard designed to analyze key metrics and trends in Call Center Operations. The dashboard provides a holistic view of Employee Performance, Customer Satisfaction 
-Ratings, and Call Handling Statistics over a specified time period. It is designed for business leaders, analysts, and stakeholders to gain actionable insights and make data-driven decisions.
+Ratings, and Call Handling Statistics over a specified time period. It is designed to obtain actionable insights for stakeholders to take data - driven decisions.
 
 Features:
 1. Key Performance Indicators (KPIs):
@@ -17,12 +17,12 @@ Features:
   
 3. Filters:
    - Agent: Filter the data by specific call center employees.
-   - Topic: View metrics based on call topics such as technical support, admin support, and more.
+   - Topic: View metrics based on call topics such as technical support, admin support etc.
    - Date Range: Select a custom time frame to analyze performance trends.
 
 Use Cases:
-- Performance Monitoring: Identify the high-performing and underperforming employees.
+- Performance Monitoring: Identify the high-performing and underperforming employees in the Call Center.
 - Customer Satisfaction Analysis: Understand how customer ratings correlate with call topics and resolution.
-- Operational Trends: Analyze trends in call volumes and response times over time.
+- Operational Trends: Analyze trends in call volumes and response times over a period.
 
 Happy Learning!
