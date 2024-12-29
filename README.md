@@ -2,6 +2,8 @@ Overview:
 This repository hosts a Power BI dashboard designed to analyze key metrics and trends in Call Center Operations. The dashboard provides a holistic view of Employee Performance, Customer Satisfaction 
 Ratings, and Call Handling Statistics over a specified time period. It is designed to obtain actionable insights for stakeholders to take data - driven decisions.
 
+This project is part of the PWC - Power BI Job Simulation Project on Forage.
+
 Features:
 1. Key Performance Indicators (KPIs):
    - Total Calls: The total number of calls received during the selected time period.
